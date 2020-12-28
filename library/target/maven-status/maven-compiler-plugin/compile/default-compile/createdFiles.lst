@@ -1,0 +1,5 @@
+examen\model\Patient.class
+examen\model\Service.class
+examen\model\Medecin.class
+examen\service\IConsultation.class
+examen\model\Consultation.class
